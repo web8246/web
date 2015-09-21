@@ -3,5 +3,8 @@ Hello 901 ios App Class
 Hello dean
 self.textFiend.text = self.username;
 Hello Myass
-Nickleback  aweson
+Nickleback  aweson rock'n'roll
 Image Dragons
+
+This is Micky's hate
+阿不就好棒棒，說話阿
