@@ -1,0 +1,6 @@
+Hello Earth
+Hello 901
+Hello dean
+self.textFiend.text = self.username;
+Hello Kitty
+Nickleback is aweson
