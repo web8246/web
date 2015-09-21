@@ -1,6 +1,7 @@
-Hello Earth
-Hello 901
+Hello Earth I am dean
+Hello 901 ios App Class
 Hello dean
 self.textFiend.text = self.username;
-Hello Kitty
-Nickleback is aweson
+Hello Myass
+Nickleback  aweson
+Image Dragons
